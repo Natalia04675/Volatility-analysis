@@ -100,9 +100,8 @@ def main():
         f"Volatility Risk Premium: {vrp:.2%}"
     )
 
-    # ------------------------------------------------
-    # COMPARISON
-    # ------------------------------------------------
+ 
+    
 
     comparison = compare_models(
         historical_vol,
